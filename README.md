@@ -1,10 +1,10 @@
 # **Pyflocolor** (Python Floral Color)
 
-A graphical user interface and workflow centered around the method introduced by Perez-Udell et al. in [An automated pipeline for supervised classification of petal color from citizen science photographs (2019)](https://doi-org.proxy.lib.umich.edu/10.1002/aps3.11505).
+A graphical user interface and workflow centered around the method introduced by Perez-Udell et al. in [An automated pipeline for supervised classification of petal color from citizen science photographs (2019)](https://doi-org.proxy.lib.umich.edu/10.1002/aps3.11505). Substantial portions of the code associated with k-means clustering and image preparation are borrowed from this paper and associated GitHub repository, [found here](https://github.com/atudell/Color-Cluster-Kit).
 
 This application provides a comprehensive workflow and GUI for downloading iNaturalist occurrences with images of blooming flowers, downloading the associated images of flowers, and identifying the color values of flowers within those images.
 
-Developed by Chris Talbot, 2024.
+Developed by Chris Talbot for work on a senior thesis project at the University of Michigan, 2024.
 
 ## Installation
 Download the executable for Windows [here](https://drive.google.com/file/d/1iMIJ7X8Quv7RmyOotElQ6DjgQDRfnjiT/view?usp=sharing). Available for OSX and Linux by request.
