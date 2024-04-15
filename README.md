@@ -7,13 +7,7 @@ This application provides a comprehensive workflow and GUI for downloading iNatu
 Developed by Chris Talbot for work on a senior thesis project at the University of Michigan, 2024.
 
 ## Installation
-Download the executable for Windows [here](https://drive.google.com/file/d/1iMIJ7X8Quv7RmyOotElQ6DjgQDRfnjiT/view?usp=sharing). Available for OSX and Linux by request.
-
-**Step 1**: Extract files to an empty directory. 
-
-**Step 2**: In the `dist` subfolder, run the executable file `pyflocolor.exe`.
-
-**Step 3**: See instructions below to get started!
+Download the latest release as a .exe from GitHub. Available for OSX and Linux by request.
 
 ## Using the program
 
